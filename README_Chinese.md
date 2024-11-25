@@ -1,6 +1,9 @@
 # 运行要求
-- 操作系统：推荐windows server 2019以上，2019以下版本未经测试，大概率也可以运行。如果没有server系统,windows 10,11也可以，注意要关闭系统自动休眠功能。
+- 操作系统：
+###  winwows: 推荐windows server 2019以上，2019以下版本未经测试，大概率也可以运行。如果没有server系统,windows 10,11也可以，注意要关闭系统自动休眠功能。
+### linux: 推荐ubuntu24以上，centos7经测试不可用。 注意不能使用root账号启动服务，请使用非root账号启动start.sh
 - 网络：有公网IP。如果没有，可以使用frp类的反向代理软件进行内网穿透，注意要代理的是UDP协议。
+# **运行服务的电脑上不可安装steam客户端，否则将无法连接。**
 
 # 配置说明
 ## start.bat：服务端的启动文件
@@ -11,7 +14,9 @@ start .\IceWorldServer.exe FrozenCity  -port=7781 -slotname=FrozenCity
 - -port=7778表示使用指定的7778端口，不加会自动选择端口
 - -slotname=FrozenCity表示存档文件为FrozenCity.sav
   
-# 服务端下载地址：<a href="https://drive.google.com/file/d/1KVWvTcHJGzULAvxhp631zB1TdKiXu-GM/view?usp=sharing">https://drive.google.com/file/d/1KVWvTcHJGzULAvxhp631zB1TdKiXu-GM/view?usp=sharing</a>
+# 服务端下载地址：
+windows:<a href="https://drive.google.com/file/d/1KVWvTcHJGzULAvxhp631zB1TdKiXu-GM/view?usp=sharing">https://drive.google.com/file/d/1KVWvTcHJGzULAvxhp631zB1TdKiXu-GM/view?usp=sharing</a>
+linux:<a href="https://drive.google.com/file/d/19Q4sGhzJvezwUYxDLfzJ3N92lCjms4NY/view?usp=sharing">https://drive.google.com/file/d/19Q4sGhzJvezwUYxDLfzJ3N92lCjms4NY/view?usp=sharing</a>
 
 ### 解压密码:iceworld
 ### 下载解压后先修改配置文件中的服务器名称，地区等信息，识情况修改start.bat里的启动参数，然后双击start.bat即可启动
