@@ -10,6 +10,8 @@ start .\IceWorldServer.exe FrozenCity  -port=7781 -slotname=FrozenCity
 - FrozenCity表示使用游戏内的"FrozenCity"地图，目前支持两个地图：FrozenCity SnowVillage
 - -port=7778表示使用指定的7778端口，不加会自动选择端口
 - -slotname=FrozenCity表示存档文件为FrozenCity.sav
+  
+# 服务端下载地址：<a href="https://drive.google.com/file/d/1KVWvTcHJGzULAvxhp631zB1TdKiXu-GM/view?usp=sharing">https://drive.google.com/file/d/1KVWvTcHJGzULAvxhp631zB1TdKiXu-GM/view?usp=sharing</a>
 
 ### 解压密码:iceworld
 ### 下载解压后先修改配置文件中的服务器名称，地区等信息，识情况修改start.bat里的启动参数，然后双击start.bat即可启动
