@@ -7,4 +7,4 @@
 <a href="https://github.com/xyz8808/iceworld_server_document/blob/main/README_English.md">English</a>
 
 
-<a href="https://github.com/xyz8808/iceworld_server_document/blob/main/download">Download Link</a>
+<a href="https://github.com/xyz8808/iceworld_server_document/blob/main/download.md">Download Link</a>
