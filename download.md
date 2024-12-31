@@ -10,5 +10,9 @@
 ### 1.3.9
 - <a href="https://drive.google.com/file/d/1wqRl9rayIVIy5tfqxK9pgfQQLpKkN4xG/view?usp=sharing">windows</a> 
 
-- <a href="https://drive.google.com/file/d/1GmAxmg7o0pJkTLR0TkKHO_SKR6XdCOTu/view?usp=sharing">linux</a> 
+- <a href="https://drive.google.com/file/d/1GmAxmg7o0pJkTLR0TkKHO_SKR6XdCOTu/view?usp=sharing">linux</a>
 
+### 1.4.0
+- <a href="https://drive.google.com/file/d/1KPv7Rktj1O6k_XCSFDYDoI2nxAlx3iUx/view?usp=sharing">windows</a> 
+
+- <a href="https://drive.google.com/file/d/1AWDHWlvdGPQYiCSfnPtXknzbEk-4oSUV/view?usp=sharing">linux</a> 
