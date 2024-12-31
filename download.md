@@ -12,7 +12,7 @@
 
 - <a href="https://drive.google.com/file/d/1GmAxmg7o0pJkTLR0TkKHO_SKR6XdCOTu/view?usp=sharing">linux</a>
 
-### 1.4.0
-- <a href="https://drive.google.com/file/d/1KPv7Rktj1O6k_XCSFDYDoI2nxAlx3iUx/view?usp=sharing">windows</a> 
+### 1.4.1
+- <a href="https://drive.google.com/file/d/1ghRPLH3Qvo9ttzQq5ehFza_qzcKmV7KI/view?usp=sharing">windows</a> 
 
-- <a href="https://drive.google.com/file/d/1AWDHWlvdGPQYiCSfnPtXknzbEk-4oSUV/view?usp=sharing">linux</a> 
+- <a href="https://drive.google.com/file/d/10fe6hY92rYbBatFtO1o3tOrj1BlURvCK/view?usp=sharing">linux</a> 
